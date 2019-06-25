@@ -1,0 +1,1 @@
+start /d "C:/Users/User/Documents/Automation/TripAdvisorProject" TestRunner.jar

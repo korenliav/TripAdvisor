@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<environment> 
+  <BrowserType>chrome</BrowserType>	
+  <URL>https://www.tripadvisor.com/</URL>
+  <ChromeDriverPath>C://SeleniumDrivers/chromedriver_win32/chromedriver.exe</ChromeDriverPath>
+  <IEDriverPath>C://SeleniumDrivers/IEDriverServer_x64_3.5.1/IEDriverServer.exe</IEDriverPath>
+  <FFDriverPath>C://SeleniumDrivers/geckodriver-v0.18.0-win64/geckodriver.exe</FFDriverPath>
+  <FirstName>Liav</FirstName>
+  <LastName>Koren</LastName>
+  <ExpectedResultBMI>32</ExpectedResultBMI>
+  <ExpectedResultMean>That you have overweight.</ExpectedResultMean>
+  
+  
+  
+  <!-- Reports -->
+  <ReportFilePath>C:/SeleniumDrivers/Reports/results/TripAdvisor Reports/</ReportFilePath>
+  <ReportFileName>TestReportTripAdvisor_</ReportFileName>
+  
+</environment>
